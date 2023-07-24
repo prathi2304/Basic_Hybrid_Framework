@@ -9,6 +9,7 @@ public class BaseClass implements Framework {
 	
 	public WebDriver driver;
 	@BeforeMethod
+	//before method
 	
 	public void Open_App()
 	{
